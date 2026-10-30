@@ -1,6 +1,0 @@
-{
-  "name": "Intelligent Lead Filtering Engine",
-  "description": "A smart processing layer that validates, deduplicates, scores, enriches, and tags scraped leads for SalesForge CRM.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
